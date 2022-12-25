@@ -1,6 +1,8 @@
 # Advanced-Web-Development
 Advanced Web Development - HTML, CSS, and JavaScript
 
+LAB 1
+
 Two Parts to this Lab: 
 
 index.html:
